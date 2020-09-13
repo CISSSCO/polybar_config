@@ -89,14 +89,14 @@ scroll-down = bspwm-deskprev
 
 #+BEGIN_SRC
 border-size = 3               ;set border around the polybar
-#END_SRC
+#+END_SRC
 
 
 #+BEGIN_SRC
 ;Set the border size to the left and right of the polybar similar to my windows
 border-left-size = 20
 border-right-size = 20
-#END_SRC
+#+END_SRC
 
 
 #+BEGIN_SRC
@@ -105,7 +105,7 @@ border-color = #0099ff
 ;In the left and right border I have set the color to transparent 
 border-left-color = #00000000
 border-right-color = #00000000
-#END_SRC
+#+END_SRC
 
 * Theme
 I am using Gotham theme of polybar with some transparency.
@@ -118,7 +118,7 @@ I am using Gotham theme of polybar with some transparency.
  volume-med = #edb443
  volume-max = #c23127
 ; ======================
-#END_SRC
+#+END_SRC
 
 
 
