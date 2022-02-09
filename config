@@ -438,7 +438,7 @@ font-3 = "Noto Sans Mono:size=10;0"
 modules-left = bspwm 
 modules-center = xwindow 
 ; modules-center = kernel
-modules-right = pavolume weather memory3 cpu1 date 
+modules-right = pavolume memory3 cpu1 date 
 
 tray-detached = false
 tray-offset-x = 0
